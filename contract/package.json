@@ -1,0 +1,6 @@
+{
+  "dependencies": { "@nomicfoundation/hardhat-ignition": "^0.15.4", "@nomicfoundation/hardhat-toolbox": "^5.0.0", "hardhat": "^2.22.5" },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

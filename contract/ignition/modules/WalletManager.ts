@@ -7,4 +7,3 @@ const WalletManagerModule = buildModule("WalletManagerModule", (m) => {
 });
 
 export default WalletManagerModule;
-
