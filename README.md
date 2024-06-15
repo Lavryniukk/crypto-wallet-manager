@@ -1,4 +1,4 @@
-# Custom crypto-wallet manager
+# A crypto wallet manager
 
 ## A showcase for my ability to write, deploy and interact with smart contracts using hardhat, metamask and sveltekit.
 
